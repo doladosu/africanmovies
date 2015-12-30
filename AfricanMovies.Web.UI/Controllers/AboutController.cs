@@ -10,5 +10,9 @@ namespace AfricanMovies.Web.UI.Controllers
             return View();
         }
 
+        public ActionResult Contact()
+        {
+            return RedirectToAction("Index");
+        }
     }
 }

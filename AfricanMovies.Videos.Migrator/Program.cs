@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using AfricanMovies.Backend;
 using AfricanMovies.Backend.DataSources;
 using AfricanMovies.Backend.Providers;
+using AfricanMovies.Email;
 using MongoDB.Driver;
 using MongoDB.Driver.Linq;
 
@@ -14,6 +17,10 @@ namespace AfricanMovies.Videos.Migrator
     {
         static void Main(string[] args)
         {
+            var errStringBuilder = new StringBuilder();
+            var channelsCount = 0;
+            var videosCount = 0;
+
             try
             {
                 Console.WriteLine("Setup migration ...");
@@ -101,6 +108,7 @@ namespace AfricanMovies.Videos.Migrator
                 }
                 catch (Exception e)
                 {
+                    errStringBuilder.AppendLine(e.Message);
                 }
                 try
                 {
@@ -109,22 +117,32 @@ namespace AfricanMovies.Videos.Migrator
                 }
                 catch (Exception e)
                 {
+                    errStringBuilder.AppendLine(e.Message);
                 }
 
-
-                Console.WriteLine();
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Migration completed.");
-                Console.WriteLine("Imported {0} channels and {1} videos.", channels.Count, videos.Count);
-                Console.ReadLine();
+                channelsCount = channels.Count;
+                videosCount = videos.Count;
+                //Console.WriteLine();
+                //Console.ForegroundColor = ConsoleColor.Green;
+                //Console.WriteLine("Migration completed.");
+                //Console.WriteLine("Imported {0} channels and {1} videos.", channels.Count, videos.Count);
+                //Console.ReadLine();
             }
             catch (Exception e)
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(e.Message+Environment.NewLine);
-                Console.WriteLine(e.StackTrace);
-                Console.ReadLine(); 
+                errStringBuilder.AppendLine(e.Message);
+
+                //Console.ForegroundColor = ConsoleColor.Red;
+                //Console.WriteLine(e.Message+Environment.NewLine);
+                //Console.WriteLine(e.StackTrace);
+                //Console.ReadLine(); 
             }
+
+            var mailService = new MailService();
+            Task.Run(() => mailService.SendMail("darexbala@yahoo.com", new List<string> { "darexbala@yahoo.com" },
+                string.Format("Migration completed - Imported {0} channels and {1} videos.", channelsCount, videosCount),
+                string.Format("Migration completed - Imported {0} channels and {1} videos. Any errors are here: {2}", channelsCount, videosCount, errStringBuilder)));
+
         }
     }
 }

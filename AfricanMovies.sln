@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfricanMovies.Web.UI", "Afr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfricanMovies.Videos.Migrator", "AfricanMovies.Videos.Migrator\AfricanMovies.Videos.Migrator.csproj", "{68BACC19-E7E5-486C-911C-93B3178FA1ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfricanMovies.Email", "AfricanMovies.Email\AfricanMovies.Email.csproj", "{AA07C5E2-2868-44D4-8A18-15FEDF07D65E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{68BACC19-E7E5-486C-911C-93B3178FA1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68BACC19-E7E5-486C-911C-93B3178FA1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68BACC19-E7E5-486C-911C-93B3178FA1ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA07C5E2-2868-44D4-8A18-15FEDF07D65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA07C5E2-2868-44D4-8A18-15FEDF07D65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA07C5E2-2868-44D4-8A18-15FEDF07D65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA07C5E2-2868-44D4-8A18-15FEDF07D65E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

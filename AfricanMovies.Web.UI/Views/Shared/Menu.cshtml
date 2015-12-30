@@ -20,8 +20,9 @@
     <ul class="nav navbar-nav">
       <li class="@isActive("videos", true)"><a class="" href="@Url.Action("Index", "Videos")">MOVIE LIBRARY</a></li>
     </ul>
-    <ul class="nav navbar-nav navbar-right">
-      <li class="@isActive("about", false)"><a class="" href="@Url.Action("Index", "About")">About Us</a></li>
-    </ul>
+        <ul class="nav navbar-nav navbar-right">
+            <li class="@isActive("about", false)"><a class="" href="@Url.Action("Contact", "About")">Contact Us</a></li>
+            <li class="@isActive("about", false)"><a class="" href="@Url.Action("Index", "About")">About Us</a></li>
+        </ul>
   </div>
 </nav>

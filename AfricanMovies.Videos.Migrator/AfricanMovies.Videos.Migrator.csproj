@@ -69,6 +69,10 @@
       <Project>{bd56c7f5-6e40-48e3-9597-6856eb33d4fd}</Project>
       <Name>AfricanMovies.Backend</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AfricanMovies.Email\AfricanMovies.Email.csproj">
+      <Project>{aa07c5e2-2868-44d4-8a18-15fedf07d65e}</Project>
+      <Name>AfricanMovies.Email</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" />
