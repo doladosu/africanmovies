@@ -1,0 +1,43 @@
+﻿@using System.Configuration
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="author" content="Tymoteusz Kęstowicz" />
+        <meta name="description" content="Strona agreguje informacje o filmach z konferencji takich jak: DevDay, NDC, Leetspeak, dotnetconf i daje możliwość przeglądania ich w jednym miejscu." />
+        <title>@ViewBag.Title</title>
+        @Scripts.Render("~/bundles/jquery")
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/main")
+    </head>
+    <body class="container-fluid">
+        <div class="page-header" style="margin-bottom: 5px;">
+            <h1 class="text-info">@Html.ActionLink("NaijaTube", "Index", "Videos")</h1>
+        </div>
+        @Html.Partial("Menu")
+        @RenderBody()
+        
+        <footer class="row">
+            <div class="col-xs-12">
+                <p class="pull-left">NaijaTube &copy; @DateTime.Now.Year</p>
+                <p class="pull-right"><a href="#">NaijaTube</a></p>
+            </div>
+        </footer>
+       
+        @RenderSection("scripts", required: false)
+
+        @Html.ReactInitJavaScript()
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', '@ConfigurationManager.AppSettings["GoogleAnalyticsAccount"]', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </body>
+</html>

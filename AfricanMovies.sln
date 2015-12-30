@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfricanMovies.Tests.Integration", "AfricanMovies.Tests.Integration\AfricanMovies.Tests.Integration.csproj", "{5852E987-A618-4AE6-8A78-716930498498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfricanMovies.Backend", "AfricanMovies.Backend\AfricanMovies.Backend.csproj", "{BD56C7F5-6E40-48E3-9597-6856EB33D4FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfricanMovies.Tests.Unit", "AfricanMovies.Tests.Unit\AfricanMovies.Tests.Unit.csproj", "{299E7C70-237C-4D69-A099-8169A3821A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfricanMovies.Web.UI", "AfricanMovies.Web.UI\AfricanMovies.Web.UI.csproj", "{22FB2AA9-6C55-4E70-BD07-96B7AAAC7CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfricanMovies.Videos.Migrator", "AfricanMovies.Videos.Migrator\AfricanMovies.Videos.Migrator.csproj", "{68BACC19-E7E5-486C-911C-93B3178FA1ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5852E987-A618-4AE6-8A78-716930498498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5852E987-A618-4AE6-8A78-716930498498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5852E987-A618-4AE6-8A78-716930498498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5852E987-A618-4AE6-8A78-716930498498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD56C7F5-6E40-48E3-9597-6856EB33D4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD56C7F5-6E40-48E3-9597-6856EB33D4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD56C7F5-6E40-48E3-9597-6856EB33D4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD56C7F5-6E40-48E3-9597-6856EB33D4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299E7C70-237C-4D69-A099-8169A3821A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299E7C70-237C-4D69-A099-8169A3821A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299E7C70-237C-4D69-A099-8169A3821A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299E7C70-237C-4D69-A099-8169A3821A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FB2AA9-6C55-4E70-BD07-96B7AAAC7CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FB2AA9-6C55-4E70-BD07-96B7AAAC7CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FB2AA9-6C55-4E70-BD07-96B7AAAC7CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FB2AA9-6C55-4E70-BD07-96B7AAAC7CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BACC19-E7E5-486C-911C-93B3178FA1ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BACC19-E7E5-486C-911C-93B3178FA1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BACC19-E7E5-486C-911C-93B3178FA1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BACC19-E7E5-486C-911C-93B3178FA1ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,64 @@
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\MongoDB.Bson.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\MongoDB.Driver.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Google.Apis.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Google.Apis.Core.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Zlib.Portable.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\MongoDB.Bson.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\MongoDB.Driver.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Google.Apis.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Google.Apis.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Google.Apis.Core.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Google.Apis.Core.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\Zlib.Portable.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.csproj.App.config
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.csprojResolveAssemblyReference.cache
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\AfricanMovies.Videos.Migrator.exe.config
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\AfricanMovies.Videos.Migrator.exe
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\AfricanMovies.Videos.Migrator.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\AfricanMovies.Backend.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\bin\Debug\AfricanMovies.Backend.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.exe
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Videos.Migrator.exe.config
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Videos.Migrator.exe
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Videos.Migrator.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Backend.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\MongoDB.Bson.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\MongoDB.Driver.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.Core.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Zlib.Portable.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Backend.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\MongoDB.Bson.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\MongoDB.Driver.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.Core.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.Core.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Zlib.Portable.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.csproj.App.config
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.csprojResolveAssemblyReference.cache
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.exe
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.pdb

@@ -1,0 +1,27 @@
+﻿@{
+    Func<string, bool, string> isActive = (match, isMain) =>
+    {
+        if (isMain && Request.Url.AbsolutePath.Length == 1)
+            return "active";
+        
+        return Request.Url.PathAndQuery.ToLower().Contains(match.ToLower()) ? "active" : string.Empty;
+    };
+}
+<nav class="navbar navbar-default" role="navigation">
+@*    <div class="container-fluid">
+        <div class="navbar-header">
+            
+        </div>
+        <div class="navbar-header">
+            <a class="navbar-brand btn-primary @isActive("about", false)" href="@Url.Action("Index", "About")">O projekcie</a>
+        </div>
+    </div>*@
+    <div class="navbar-collapse">
+    <ul class="nav navbar-nav">
+      <li class="@isActive("videos", true)"><a class="" href="@Url.Action("Index", "Videos")">MOVIE LIBRARY</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="@isActive("about", false)"><a class="" href="@Url.Action("Index", "About")">About Us</a></li>
+    </ul>
+  </div>
+</nav>

@@ -1,0 +1,171 @@
+﻿<error errorId="3a1dc36b-795b-40f5-87be-38da59744cd5" application="/LM/W3SVC/2/ROOT" host="DOLADOSU7-WKS" type="System.IO.FileLoadException" message="Could not load file or assembly 'Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)" source="React" detail="System.IO.FileLoadException: Could not load file or assembly 'Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)&#xD;&#xA;File name: 'Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed'&#xD;&#xA;   at React.ReactComponent.GetComponentInitialiser()&#xD;&#xA;   at React.ReactComponent.RenderHtml()&#xD;&#xA;   at React.Web.Mvc.HtmlHelperExtensions.React[T](HtmlHelper htmlHelper, String componentName, T props)&#xD;&#xA;   at ASP._Page_Views_Shared_Videos_Filters_cshtml.Execute() in c:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\Views\Shared\Videos\Filters.cshtml:line 6&#xD;&#xA;   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()&#xD;&#xA;   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()&#xD;&#xA;   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)&#xD;&#xA;   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)&#xD;&#xA;   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)&#xD;&#xA;   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)&#xD;&#xA;   at System.Web.Mvc.Html.RenderPartialExtensions.RenderPartial(HtmlHelper htmlHelper, String partialViewName, Object model)&#xD;&#xA;   at ASP._Page_Views_Videos_Index_cshtml.Execute() in c:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\Views\Videos\Index.cshtml:line 26&#xD;&#xA;   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()&#xD;&#xA;   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()&#xD;&#xA;   at System.Web.WebPages.StartPage.RunPage()&#xD;&#xA;   at System.Web.WebPages.StartPage.ExecutePageHierarchy()&#xD;&#xA;   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)&#xD;&#xA;   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)&#xD;&#xA;   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)&#xD;&#xA;   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)&#xD;&#xA;   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)&#xD;&#xA;   at System.Web.Mvc.ControllerActionInvoker.&lt;&gt;c__DisplayClass1a.&lt;InvokeActionResultWithFilters&gt;b__17()&#xD;&#xA;   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)&#xD;&#xA;   at System.Web.Mvc.ControllerActionInvoker.&lt;&gt;c__DisplayClass1a.&lt;&gt;c__DisplayClass1c.&lt;InvokeActionResultWithFilters&gt;b__19()&#xD;&#xA;   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)&#xD;&#xA;   at System.Web.Mvc.Async.AsyncControllerActionInvoker.&lt;&gt;c__DisplayClass25.&lt;&gt;c__DisplayClass2a.&lt;BeginInvokeAction&gt;b__20()&#xD;&#xA;   at System.Web.Mvc.Async.AsyncControllerActionInvoker.&lt;&gt;c__DisplayClass25.&lt;BeginInvokeAction&gt;b__22(IAsyncResult asyncResult)&#xD;&#xA;&#xD;&#xA;=== Pre-bind state information ===&#xD;&#xA;LOG: DisplayName = Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed&#xA; (Fully-specified)&#xD;&#xA;LOG: Appbase = file:///C:/Users/DOladosu/Documents/Visual Studio 2013/Projects/AMC/AfricanMovies.Web.UI/&#xD;&#xA;LOG: Initial PrivatePath = C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin&#xD;&#xA;Calling assembly : React, Version=1.1.0.0, Culture=neutral, PublicKeyToken=9aed67b161f7db78.&#xD;&#xA;===&#xD;&#xA;LOG: This bind starts in default load context.&#xD;&#xA;LOG: Using application configuration file: C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\web.config&#xD;&#xA;LOG: Using host configuration file: C:\Users\DOladosu\Documents\IISExpress\config\aspnet.config&#xD;&#xA;LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.&#xD;&#xA;LOG: Redirect found in application configuration file: 4.5.0.0 redirected to 4.5.0.0.&#xD;&#xA;LOG: Post-policy reference: Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed&#xD;&#xA;LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework/v4.0.30319/Temporary ASP.NET Files/vs/a71fa94e/613f368/Newtonsoft.Json.DLL.&#xD;&#xA;LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework/v4.0.30319/Temporary ASP.NET Files/vs/a71fa94e/613f368/Newtonsoft.Json/Newtonsoft.Json.DLL.&#xD;&#xA;LOG: Attempting download of new URL file:///C:/Users/DOladosu/Documents/Visual Studio 2013/Projects/AMC/AfricanMovies.Web.UI/bin/Newtonsoft.Json.DLL.&#xD;&#xA;WRN: Comparing the assembly name resulted in the mismatch: Major Version&#xD;&#xA;ERR: Failed to complete setup of assembly (hr = 0x80131040). Probing terminated.&#xD;&#xA;" time="2015-12-30T14:53:48.3952027Z">
+  <serverVariables>
+    <item name="ALL_HTTP">
+      <value string="HTTP_CONNECTION:keep-alive&#xD;&#xA;HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&#xD;&#xA;HTTP_ACCEPT_ENCODING:gzip, deflate, sdch&#xD;&#xA;HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.8&#xD;&#xA;HTTP_COOKIE:__RequestVerificationToken=AegBmCKMLQVPS9zfo7R25EP78GpPc6xINNU9YFB33f-pVUMbvjgYBt32fs_ONDdkeNHo49j9-MwlPPPru7hT6hHfWtnKvGn5yAjUuiqfSqM1; .AspNet.ApplicationCookie=7CTnsiU15gBxIk_qZpv0AqvqDLOlHm2G3rTqfAfIFYXRRog4I5JHLTukVI0cczs3awfM7GgYFmi88Ux3HTn_BhW6GyI8l7Vu-dz_fHpwqn22WRp5nuBe8AkWBMOpIjB8I2tcIqsyi8i9BfInDtQcQ90jiNFcJNFzibkN_oFKNWKOnEgByVhzOTKNzKGT_sHxjDUR6Oc2tiyhfLc6an3JJysFlXy-WU-kehHo3MBWG-wRxjZpnNx9E22_E45uGMqksIJex-8C98vivFuGIGw8CQRGERXqnP348pbre3aMFLtVrlMIqLVter_woEfYTVNXICCfdTn8gv444GKh1owhkfhnSykzyAsFqR_9t_xf5NA8D5FdL6QuWECTsUIjJY0Uk3CdZKH4oJpIJfT1eO1kUWD6ngeuoWQaX3Bs0mPX6gg; _gat=1; _ga=GA1.1.1646402424.1449780763&#xD;&#xA;HTTP_HOST:localhost:54351&#xD;&#xA;HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&#xD;&#xA;HTTP_UPGRADE_INSECURE_REQUESTS:1&#xD;&#xA;" />
+    </item>
+    <item name="ALL_RAW">
+      <value string="Connection: keep-alive&#xD;&#xA;Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&#xD;&#xA;Accept-Encoding: gzip, deflate, sdch&#xD;&#xA;Accept-Language: en-US,en;q=0.8&#xD;&#xA;Cookie: __RequestVerificationToken=AegBmCKMLQVPS9zfo7R25EP78GpPc6xINNU9YFB33f-pVUMbvjgYBt32fs_ONDdkeNHo49j9-MwlPPPru7hT6hHfWtnKvGn5yAjUuiqfSqM1; .AspNet.ApplicationCookie=7CTnsiU15gBxIk_qZpv0AqvqDLOlHm2G3rTqfAfIFYXRRog4I5JHLTukVI0cczs3awfM7GgYFmi88Ux3HTn_BhW6GyI8l7Vu-dz_fHpwqn22WRp5nuBe8AkWBMOpIjB8I2tcIqsyi8i9BfInDtQcQ90jiNFcJNFzibkN_oFKNWKOnEgByVhzOTKNzKGT_sHxjDUR6Oc2tiyhfLc6an3JJysFlXy-WU-kehHo3MBWG-wRxjZpnNx9E22_E45uGMqksIJex-8C98vivFuGIGw8CQRGERXqnP348pbre3aMFLtVrlMIqLVter_woEfYTVNXICCfdTn8gv444GKh1owhkfhnSykzyAsFqR_9t_xf5NA8D5FdL6QuWECTsUIjJY0Uk3CdZKH4oJpIJfT1eO1kUWD6ngeuoWQaX3Bs0mPX6gg; _gat=1; _ga=GA1.1.1646402424.1449780763&#xD;&#xA;Host: localhost:54351&#xD;&#xA;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&#xD;&#xA;Upgrade-Insecure-Requests: 1&#xD;&#xA;" />
+    </item>
+    <item name="APPL_MD_PATH">
+      <value string="/LM/W3SVC/2/ROOT" />
+    </item>
+    <item name="APPL_PHYSICAL_PATH">
+      <value string="C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\" />
+    </item>
+    <item name="AUTH_TYPE">
+      <value string="" />
+    </item>
+    <item name="AUTH_USER">
+      <value string="" />
+    </item>
+    <item name="AUTH_PASSWORD">
+      <value string="*****" />
+    </item>
+    <item name="LOGON_USER">
+      <value string="" />
+    </item>
+    <item name="REMOTE_USER">
+      <value string="" />
+    </item>
+    <item name="CERT_COOKIE">
+      <value string="" />
+    </item>
+    <item name="CERT_FLAGS">
+      <value string="" />
+    </item>
+    <item name="CERT_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SERIALNUMBER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CERT_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CONTENT_LENGTH">
+      <value string="0" />
+    </item>
+    <item name="CONTENT_TYPE">
+      <value string="" />
+    </item>
+    <item name="GATEWAY_INTERFACE">
+      <value string="CGI/1.1" />
+    </item>
+    <item name="HTTPS">
+      <value string="off" />
+    </item>
+    <item name="HTTPS_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_ID">
+      <value string="2" />
+    </item>
+    <item name="INSTANCE_META_PATH">
+      <value string="/LM/W3SVC/2" />
+    </item>
+    <item name="LOCAL_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="PATH_INFO">
+      <value string="/" />
+    </item>
+    <item name="PATH_TRANSLATED">
+      <value string="C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI" />
+    </item>
+    <item name="QUERY_STRING">
+      <value string="" />
+    </item>
+    <item name="REMOTE_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_HOST">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_PORT">
+      <value string="12053" />
+    </item>
+    <item name="REQUEST_METHOD">
+      <value string="GET" />
+    </item>
+    <item name="SCRIPT_NAME">
+      <value string="/" />
+    </item>
+    <item name="SERVER_NAME">
+      <value string="localhost" />
+    </item>
+    <item name="SERVER_PORT">
+      <value string="54351" />
+    </item>
+    <item name="SERVER_PORT_SECURE">
+      <value string="0" />
+    </item>
+    <item name="SERVER_PROTOCOL">
+      <value string="HTTP/1.1" />
+    </item>
+    <item name="SERVER_SOFTWARE">
+      <value string="Microsoft-IIS/10.0" />
+    </item>
+    <item name="URL">
+      <value string="/" />
+    </item>
+    <item name="HTTP_CONNECTION">
+      <value string="keep-alive" />
+    </item>
+    <item name="HTTP_ACCEPT">
+      <value string="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" />
+    </item>
+    <item name="HTTP_ACCEPT_ENCODING">
+      <value string="gzip, deflate, sdch" />
+    </item>
+    <item name="HTTP_ACCEPT_LANGUAGE">
+      <value string="en-US,en;q=0.8" />
+    </item>
+    <item name="HTTP_COOKIE">
+      <value string="__RequestVerificationToken=AegBmCKMLQVPS9zfo7R25EP78GpPc6xINNU9YFB33f-pVUMbvjgYBt32fs_ONDdkeNHo49j9-MwlPPPru7hT6hHfWtnKvGn5yAjUuiqfSqM1; .AspNet.ApplicationCookie=7CTnsiU15gBxIk_qZpv0AqvqDLOlHm2G3rTqfAfIFYXRRog4I5JHLTukVI0cczs3awfM7GgYFmi88Ux3HTn_BhW6GyI8l7Vu-dz_fHpwqn22WRp5nuBe8AkWBMOpIjB8I2tcIqsyi8i9BfInDtQcQ90jiNFcJNFzibkN_oFKNWKOnEgByVhzOTKNzKGT_sHxjDUR6Oc2tiyhfLc6an3JJysFlXy-WU-kehHo3MBWG-wRxjZpnNx9E22_E45uGMqksIJex-8C98vivFuGIGw8CQRGERXqnP348pbre3aMFLtVrlMIqLVter_woEfYTVNXICCfdTn8gv444GKh1owhkfhnSykzyAsFqR_9t_xf5NA8D5FdL6QuWECTsUIjJY0Uk3CdZKH4oJpIJfT1eO1kUWD6ngeuoWQaX3Bs0mPX6gg; _gat=1; _ga=GA1.1.1646402424.1449780763" />
+    </item>
+    <item name="HTTP_HOST">
+      <value string="localhost:54351" />
+    </item>
+    <item name="HTTP_USER_AGENT">
+      <value string="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36" />
+    </item>
+    <item name="HTTP_UPGRADE_INSECURE_REQUESTS">
+      <value string="1" />
+    </item>
+  </serverVariables>
+  <cookies>
+    <item name="__RequestVerificationToken">
+      <value string="AegBmCKMLQVPS9zfo7R25EP78GpPc6xINNU9YFB33f-pVUMbvjgYBt32fs_ONDdkeNHo49j9-MwlPPPru7hT6hHfWtnKvGn5yAjUuiqfSqM1" />
+    </item>
+    <item name=".AspNet.ApplicationCookie">
+      <value string="7CTnsiU15gBxIk_qZpv0AqvqDLOlHm2G3rTqfAfIFYXRRog4I5JHLTukVI0cczs3awfM7GgYFmi88Ux3HTn_BhW6GyI8l7Vu-dz_fHpwqn22WRp5nuBe8AkWBMOpIjB8I2tcIqsyi8i9BfInDtQcQ90jiNFcJNFzibkN_oFKNWKOnEgByVhzOTKNzKGT_sHxjDUR6Oc2tiyhfLc6an3JJysFlXy-WU-kehHo3MBWG-wRxjZpnNx9E22_E45uGMqksIJex-8C98vivFuGIGw8CQRGERXqnP348pbre3aMFLtVrlMIqLVter_woEfYTVNXICCfdTn8gv444GKh1owhkfhnSykzyAsFqR_9t_xf5NA8D5FdL6QuWECTsUIjJY0Uk3CdZKH4oJpIJfT1eO1kUWD6ngeuoWQaX3Bs0mPX6gg" />
+    </item>
+    <item name="_gat">
+      <value string="1" />
+    </item>
+    <item name="_ga">
+      <value string="GA1.1.1646402424.1449780763" />
+    </item>
+  </cookies>
+</error>

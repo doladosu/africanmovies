@@ -1,0 +1,76 @@
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\FakeData.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Ploeh.AutoFixture.Xunit.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Should.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\xunit.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\xunit.extensions.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\MongoDB.Driver.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Google.Apis.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\MongoDB.Bson.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Google.Apis.Core.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Zlib.Portable.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\FakeData.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Ploeh.AutoFixture.Xunit.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\xunit.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\xunit.extensions.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\MongoDB.Driver.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Google.Apis.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Google.Apis.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\MongoDB.Bson.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Google.Apis.Core.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Google.Apis.Core.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\Zlib.Portable.xml
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\AfricanMovies.Tests.Unit.dll.config
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\AfricanMovies.Tests.Unit.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\AfricanMovies.Tests.Unit.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\AfricanMovies.Backend.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\bin\Debug\AfricanMovies.Backend.pdb
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.dll
+C:\Users\DOladosu\Downloads\DevMoviesPL-master\DevMoviesPL-master\TheDevelopersStuff\TheDevelopersStuff.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Tests.Unit.dll.config
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Tests.Unit.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Tests.Unit.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Backend.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\FakeData.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Ploeh.AutoFixture.Xunit.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Should.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\xunit.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\xunit.extensions.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\MongoDB.Driver.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\MongoDB.Bson.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.Core.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Zlib.Portable.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Backend.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\FakeData.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Ploeh.AutoFixture.Xunit.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\xunit.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\xunit.extensions.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\MongoDB.Driver.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\MongoDB.Bson.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.Core.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.Core.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\bin\Debug\Zlib.Portable.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.pdb
