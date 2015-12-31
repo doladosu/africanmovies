@@ -1,0 +1,13 @@
+﻿@model AfricanMovies.Backend.ViewModels.VideosFiltersViewModel
+
+<div id="@ViewBag.VideosFiltersComponentName">
+    <h3 class="text-primary">Filters</h3>
+
+    @Html.React("VideosFilters", new { data = Model, componentName = ViewBag.VideosFiltersComponentName })
+</div>
+
+<script>
+  $(function() {
+    $( "#tags" ).autocomplete(@Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(new { source = @Model.Tags })));
+  });
+  </script>

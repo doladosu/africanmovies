@@ -1,0 +1,41 @@
+﻿@using System.Web.Script.Serialization
+@model AfricanMovies.Backend.ViewModels.VideosListViewModel
+
+@{
+    ViewBag.Title = "DevMovies - Biblioteka filmów";
+    ViewBag.VideosFiltersComponentName = "videos-filters";
+    ViewBag.VideosOrderByComponentName = "videos-orderBy";
+    ViewBag.VideosPaginationComponentName = "videos-pagination";
+
+    var controllerSettings = new
+    {
+        selectors = new
+        {
+            filters = '#' + ViewBag.VideosFiltersComponentName,
+            orderBy = '#' + ViewBag.VideosOrderByComponentName,
+            pagination = '#' + ViewBag.VideosPaginationComponentName
+        },
+        url = Url.Action("Index", "Videos"),
+        lastQuery = Model.Query
+    };
+}
+
+<section class="row">
+    <aside class="col-md-3 col-lg-2">
+        @{
+            Html.RenderPartial("Videos/Filters", Model.Filters);
+        }
+    </aside>
+    <section class="col-md-9 col-lg-10">
+        @{
+            Html.RenderPartial("Videos/List", Model);
+        }        
+    </section>
+    <script type="text/javascript">
+        $(function() {
+
+            videosController.init(@Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(controllerSettings)));
+
+        });
+    </script>
+</section>

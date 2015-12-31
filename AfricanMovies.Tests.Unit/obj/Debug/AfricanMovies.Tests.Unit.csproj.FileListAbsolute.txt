@@ -74,3 +74,41 @@ C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.csprojResolveAssemblyReference.cache
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.dll
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.pdb
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Tests.Unit.dll.config
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Tests.Unit.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Tests.Unit.pdb
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Backend.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\FakeData.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Ploeh.AutoFixture.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Ploeh.AutoFixture.Xunit.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Should.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\xunit.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\xunit.extensions.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\MongoDB.Driver.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Newtonsoft.Json.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\MongoDB.Bson.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.Core.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Zlib.Portable.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\AfricanMovies.Backend.pdb
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\FakeData.pdb
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Ploeh.AutoFixture.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Ploeh.AutoFixture.Xunit.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\xunit.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\xunit.extensions.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\MongoDB.Driver.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Newtonsoft.Json.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.pdb
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\MongoDB.Bson.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.Core.pdb
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Google.Apis.Core.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\bin\Debug\Zlib.Portable.xml
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.dll
+C:\git\AfricanMovies\AfricanMovies.Tests.Unit\obj\Debug\AfricanMovies.Tests.Unit.pdb

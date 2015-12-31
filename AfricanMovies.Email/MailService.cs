@@ -18,8 +18,8 @@ namespace AfricanMovies.Email
             myMessage.Html = body;
             myMessage.Text = body;
 
-            var username = Environment.GetEnvironmentVariable("SENDGRID_USER"); //azure_319cea33fc47810d80cdf9feb551e4db@azure.com
-            var pswd = Environment.GetEnvironmentVariable("SENDGRID_PASS"); //xtdD6531F828zR4
+            var username = Environment.GetEnvironmentVariable("SENDGRID_USER"); 
+            var pswd = Environment.GetEnvironmentVariable("SENDGRID_PASS"); 
             var credentials = new NetworkCredential(username, pswd);
             var transportWeb = new Web(credentials);
             await transportWeb.DeliverAsync(myMessage);

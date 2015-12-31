@@ -1,0 +1,87 @@
+﻿label,
+.radio label,
+.checkbox label {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.page-header h1 a,
+.page-header h1 a:hover,
+.page-header h1 a:focus {
+    color: #325d88;
+    text-decoration: none;
+}
+
+.video .caption{
+    height: 230px;
+    overflow-y: auto;
+}
+
+.input-group-addon.bg-primary {
+    background-color: #df691a !important;
+    border-color: #df691a !important;
+}
+
+.bg-default {
+    background-color: #4e5d6c;
+}
+
+.label-root,
+.bg-root,
+.btn-root {
+    background-color: #2b3e50;
+}
+
+.label {
+    font-weight: 300;
+}
+
+.filters .label {
+    font-size: 14px;
+    cursor: pointer;
+    margin: 3px;
+}
+
+.label {
+    margin: 3px;
+}
+
+.order {
+    margin-top: 30px;
+    font-size: 12px;
+}
+
+.order .dropdown-menu {
+    border: 1px solid #2b3e50;
+    right: 0;
+    left: initial;
+}
+
+footer {
+    margin-top: 15px;
+    border-top: 1px solid #4e5d6c;
+    font-size: 12px;
+}
+
+[data-toggle="modal"] {
+    cursor: pointer;
+}
+
+.input-group .form-control {
+    z-index: 0;
+}
+
+.ui-autocomplete {
+    overflow-x: visible;
+    overflow-y: auto;
+    max-height: 300px;
+}
+
+.navbar > .container-fluid .navbar-brand {
+    margin-left: 0;
+}
+
+.navbar > .container-fluid .navbar-brand:first-child {
+    margin-left: -15px;
+    margin-right: 15px;
+}

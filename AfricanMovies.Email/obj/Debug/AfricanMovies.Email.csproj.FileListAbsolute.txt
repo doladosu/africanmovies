@@ -11,3 +11,16 @@ C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Email\
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Email\obj\Debug\AfricanMovies.Email.csprojResolveAssemblyReference.cache
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Email\obj\Debug\AfricanMovies.Email.dll
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Email\obj\Debug\AfricanMovies.Email.pdb
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\AfricanMovies.Email.dll.config
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\AfricanMovies.Email.dll
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\AfricanMovies.Email.pdb
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\Newtonsoft.Json.dll
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\SendGrid.dll
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\SendGrid.SmtpApi.dll
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\SendGridMail.dll
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\System.Net.Http.Formatting.dll
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\Newtonsoft.Json.xml
+C:\git\AfricanMovies\AfricanMovies.Email\bin\Debug\System.Net.Http.Formatting.xml
+C:\git\AfricanMovies\AfricanMovies.Email\obj\Debug\AfricanMovies.Email.csprojResolveAssemblyReference.cache
+C:\git\AfricanMovies\AfricanMovies.Email\obj\Debug\AfricanMovies.Email.dll
+C:\git\AfricanMovies\AfricanMovies.Email\obj\Debug\AfricanMovies.Email.pdb

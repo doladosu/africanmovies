@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DevStuff-Web.config Connection String" description="DevStuff Connection String used in web.config by the application to access the database." defaultValue="mongodb://amdb.cloudapp.net" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\git\\AfricanMovies\\AfricanMovies\.Web\.UI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DevStuff']/@connectionString" />
+  </parameter>
+</parameters>

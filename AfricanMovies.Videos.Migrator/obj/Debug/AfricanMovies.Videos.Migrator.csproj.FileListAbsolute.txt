@@ -66,3 +66,39 @@ C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\bin\Debug\Zlib.Portable.xml
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.exe
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.pdb
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Videos.Migrator.exe.config
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.exe
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.pdb
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Videos.Migrator.exe
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Videos.Migrator.pdb
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Backend.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Email.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\MongoDB.Bson.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\MongoDB.Driver.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\System.Net.Http.Extensions.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\System.Net.Http.Primitives.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Newtonsoft.Json.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\SendGridMail.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.Core.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Zlib.Portable.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\SendGrid.SmtpApi.dll
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Backend.pdb
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\AfricanMovies.Email.pdb
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\MongoDB.Bson.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\MongoDB.Driver.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\System.Net.Http.Extensions.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\System.Net.Http.Primitives.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Newtonsoft.Json.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.pdb
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.Core.pdb
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Google.Apis.Core.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\bin\Debug\Zlib.Portable.xml
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.csproj.App.config
+C:\git\AfricanMovies\AfricanMovies.Videos.Migrator\obj\Debug\AfricanMovies.Videos.Migrator.csprojResolveAssemblyReference.cache
