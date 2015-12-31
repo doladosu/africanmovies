@@ -40,8 +40,9 @@ namespace AfricanMovies.Videos.Migrator
                     .ToList();
 
                 var vimeo = ConfigurationManager.AppSettings["VimeoAccounts"].Split(',');
-                var yt = ConfigurationManager.AppSettings["YoutubeAccounts"].Split(',');
-
+                var ytd = Environment.GetEnvironmentVariable("YoutubeAccounts") ??
+                          ConfigurationManager.AppSettings["YoutubeAccounts"];
+                var yt = ytd.Split(',');
                 var datasource = new VideosDataSource(new List<IVideoProvider>(2)
                 {
                     //new VimeoProvider(new VimeoProvider.VimeoConfig(), vimeo),
@@ -101,23 +102,34 @@ namespace AfricanMovies.Videos.Migrator
                 }
 
                 Console.WriteLine("Save data ...");
-                try
+                if (channels.Any())
                 {
-                    if (channels.Any())
-                        db.GetCollection("Channels").InsertBatch(channels);
+                    foreach (var channel in channels)
+                    {
+                        try
+                        {
+                            db.GetCollection("Channels").Insert(channel);
+                        }
+                        catch (Exception ex)
+                        {
+                            errStringBuilder.AppendLine(ex.Message);
+                        }
+                    }
                 }
-                catch (Exception e)
+
+                if (videos.Any())
                 {
-                    errStringBuilder.AppendLine(e.Message);
-                }
-                try
-                {
-                    if (videos.Any())
-                        db.GetCollection("Videos").InsertBatch(videos);
-                }
-                catch (Exception e)
-                {
-                    errStringBuilder.AppendLine(e.Message);
+                    foreach (var video in videos)
+                    {
+                        try
+                        {
+                            db.GetCollection("Videos").Insert(video);
+                        }
+                        catch (Exception ex)
+                        {
+                            errStringBuilder.AppendLine(ex.Message);
+                        }
+                    }
                 }
 
                 channelsCount = channels.Count;
@@ -139,10 +151,14 @@ namespace AfricanMovies.Videos.Migrator
             }
 
             var mailService = new MailService();
-            Task.Run(() => mailService.SendMail("darexbala@yahoo.com", new List<string> { "darexbala@yahoo.com" },
+            var emailSent = Task.Run(() => mailService.SendMail("darexbala@yahoo.com", new List<string> { "darexbala@yahoo.com" },
                 string.Format("Migration completed - Imported {0} channels and {1} videos.", channelsCount, videosCount),
                 string.Format("Migration completed - Imported {0} channels and {1} videos. Any errors are here: {2}", channelsCount, videosCount, errStringBuilder)));
 
+            if (!emailSent.Result)
+            {
+                
+            }
         }
     }
 }

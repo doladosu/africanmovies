@@ -36,11 +36,36 @@ namespace AfricanMovies.Backend.Providers
 
         public YouTubeProvider()
             : this(new YouTubeConfig(), new List<string>()
-            {
-                "ABBDevDay",
-                "dotnetConf",
-                "UCs3oPPpRdETQTsxVF-Wvqbg" // dotnetconfpl
-            })
+                                        {
+                                            "Nollywood5ive",
+                                            "TVNolly",
+                                            "realnollymovies",
+                                            "nollystar1,,NollywoodLove,mynaijalove,Movieandclipstv,Ikorotv,nollywoodbest",
+                                            "NollywoodPicturestv",
+                                            "NollywoodLove,,Movieandclipstv,Ikorotv,nollywoodbest",
+                                            "mynaijalove",
+                                            "Movieandclipstv",
+                                            "Ikorotv",
+                                            "nollywoodbest",
+                                            "mynaijalove",
+                                            "UCdUth5xByWogqrnjKmTAlIw", //Yoruba360
+                                            "UC6soW1N4F9DgdCVhHoXy2pw", //MovieMore
+                                            "geledetvhits",
+                                            "Yorubahood",
+                                            "UC83tx3zGcvQ_rXzsZigTnEA", //ApataTV+
+                                            "OlekuTV",
+                                            "NewNollywood",
+                                            "yorubamagic",
+                                            "Yorubac",
+                                            "Yoruba5star",
+                                            "UCAb8z0bY19q-K_8-kY3S8nw",
+                                            "UC_LDb23YlsAbpuUdg7xqjDA",
+                                            "UCmLRPOm_1rvS0FC1k0pgWwA",
+                                            "UCmLRPOm_1rvS0FC1k0pgWwA",
+                                            "UCdUth5xByWogqrnjKmTAlIw",
+                                            "UC6soW1N4F9DgdCVhHoXy2pw",
+                                            "UC83tx3zGcvQ_rXzsZigTnEA"
+                                        })
         {
         }
 
@@ -78,7 +103,6 @@ namespace AfricanMovies.Backend.Providers
 
                 results.Add(conference);
             }
-
             return results;
         }
 

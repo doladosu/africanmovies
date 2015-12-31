@@ -5,6 +5,6 @@ namespace AfricanMovies.Email
 {
     public interface IMailService
     {
-        Task SendMail(string fromEmail, List<string> toEmails, string subject, string body);
+        Task<bool> SendMail(string fromEmail, List<string> toEmails, string subject, string body);
     }
 }

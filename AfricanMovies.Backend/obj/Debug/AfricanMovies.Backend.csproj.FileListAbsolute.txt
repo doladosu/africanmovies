@@ -131,3 +131,4 @@ C:\git\AfricanMovies\AfricanMovies.Backend\obj\Debug\AfricanMovies.Backend.cspro
 C:\git\AfricanMovies\AfricanMovies.Backend\obj\Debug\AfricanMovies.Backend.csprojResolveAssemblyReference.cache
 C:\git\AfricanMovies\AfricanMovies.Backend\obj\Debug\AfricanMovies.Backend.dll
 C:\git\AfricanMovies\AfricanMovies.Backend\obj\Debug\AfricanMovies.Backend.pdb
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Backend\obj\Debug\AfricanMovies.Backend.csprojResolveAssemblyReference.cache

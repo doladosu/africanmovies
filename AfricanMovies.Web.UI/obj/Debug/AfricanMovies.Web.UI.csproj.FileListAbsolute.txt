@@ -203,3 +203,16 @@ C:\git\AfricanMovies\AfricanMovies.Web.UI\bin\Microsoft.AI.ServerTelemetryChanne
 C:\git\AfricanMovies\AfricanMovies.Web.UI\bin\Microsoft.AI.Web.xml
 C:\git\AfricanMovies\AfricanMovies.Web.UI\bin\Microsoft.AI.WindowsServer.xml
 C:\git\AfricanMovies\AfricanMovies.Web.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\ApplicationInsights.config
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.Web.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.Web.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Web.UI\bin\Microsoft.ApplicationInsights.xml
