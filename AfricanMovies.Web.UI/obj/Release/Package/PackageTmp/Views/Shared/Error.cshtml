@@ -2,7 +2,18 @@
     <div class="col-sm-12">
         <h3 class="text-danger">An error occurred</h3>
 
-        <p>Something went wrong, go to @Html.ActionLink("the homepage", "Index", "Videos"). Notify us on twitter: <a href="https://twitter.com/intent/tweet?screen_name=DevMoviesPL&text=Hej%2C%20co%C5%9B%20jest%20nie%20tak%20ze%20stronk%C4%85.%20/CC%3A%20%40tkestowicz" class="twitter-mention-button" data-lang="pl" data-related="tkestowicz">Tweet to @@DevMoviesPL</a>.</p>
-        <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+        <p>Something went wrong, go to @Html.ActionLink("the homepage", "Index", "Videos"). Notify us on twitter:
+            <a class="twitter-timeline" href="https://twitter.com/african_cinema" data-widget-id="682681247206912000">Tweets by @@african_cinema</a>
+        <script>
+            !function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                if (!d.getElementById(id)) {
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = p + "://platform.twitter.com/widgets.js";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, "script", "twitter-wjs");
+        </script>
     </div>
 </div>

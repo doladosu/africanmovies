@@ -87,3 +87,4 @@ C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Backen
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Backend\obj\Release\AfricanMovies.Backend.csprojResolveAssemblyReference.cache
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Backend\obj\Release\AfricanMovies.Backend.dll
 C:\Users\DOladosu\Documents\Visual Studio 2013\Projects\AMC\AfricanMovies.Backend\obj\Release\AfricanMovies.Backend.pdb
+C:\git\AfricanMovies\AfricanMovies.Backend\obj\Release\AfricanMovies.Backend.csprojResolveAssemblyReference.cache

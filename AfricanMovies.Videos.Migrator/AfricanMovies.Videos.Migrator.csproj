@@ -78,7 +78,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-    <None Include="Properties\PublishProfiles\africanmovies.pubxml" />
+    <None Include="Properties\PublishProfiles\africancinemawj.pubxml" />
     <None Include="Properties\webjob-publish-settings.json" />
   </ItemGroup>
   <ItemGroup>
